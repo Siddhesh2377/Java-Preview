@@ -1,0 +1,20 @@
+{
+  "id": "root",
+  "type": "LinearLayout",
+  "props": {
+    "width": "fill",
+    "height": "fill",
+    "background-color": "#66FFFF",
+    "orientation": "vertical",
+    "items-align": "top-right"
+  },
+  "child": {
+    "id": "btn1",
+    "type": "Button",
+    "props": {
+      "width": "wrap",
+      "height": "wrap",
+      "text": "Click Me"
+    }
+  }
+}
